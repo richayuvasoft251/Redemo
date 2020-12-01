@@ -4,4 +4,12 @@ class ApplicationController < ActionController::Base
   def without_cherry
   	
   end
+
+  def method_name
+  	
+  end
+
+  def cheery_pick
+  	
+  end
 end
