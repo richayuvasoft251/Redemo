@@ -6,4 +6,7 @@ class HomeController < ApplicationController
 	def rebase_changes
 		
 	end
+
+	def rebase_update
+	end
 end
