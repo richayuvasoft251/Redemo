@@ -13,4 +13,8 @@ class HomeController < ApplicationController
 	def without_cherry_pick
 		
 	end
+
+	def with_cherry_pick
+		
+	end
 end
