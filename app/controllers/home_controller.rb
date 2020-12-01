@@ -9,4 +9,8 @@ class HomeController < ApplicationController
 
 	def rebase_update
 	end
+
+	def without_cherry_pick
+		
+	end
 end
